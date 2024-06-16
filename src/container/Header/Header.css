@@ -11,10 +11,6 @@
   font-size: 90px;
 }
 
-.app__wrapper_info > .p__opensans {
-  color: var(--color-grey);
-}
-
 .app__header-img img {
   width: 80%;
 }
