@@ -78,6 +78,11 @@
     height: auto;
   }
 
+  .app__specialMenu-menu_img img {
+    height: 300px;
+    object-fit: contain;
+  }
+
   .app__specialMenu-menu_heading {
     font-size: 35px;
     line-height: 48.5px;
